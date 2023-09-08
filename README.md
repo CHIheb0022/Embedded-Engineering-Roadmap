@@ -80,10 +80,11 @@ Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) tak
 
 #### 👨‍🏫 Educational Websites
 
-- [DeepBlueMbedded](https://deepbluembedded.com/)
+- [DeepBlueMbedded](https://deepbluembedded.com/) 💎
 - [Interrupt Blog by Memfault](https://interrupt.memfault.com/blog/)
 - [Microchip University](https://mu.microchip.com/)
-- [Electronics Tutorials](https://www.electronics-tutorials.ws)
+- [Electronics Tutorials](https://www.electronics-tutorials.ws) 💎
+- [Electronic wings](https://www.electronicwings.com/)  💎
 - [SparkFun Learn: Learn at SparkFun Electronics](https://learn.sparkfun.com/)
 - [Adafruit Learning System](https://learn.adafruit.com/)
 - [Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
